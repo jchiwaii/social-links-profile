@@ -9,9 +9,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
-
   - [Built with](#built-with)
-
 - [Author](#author)
 
 ## Overview
