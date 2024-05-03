@@ -19,6 +19,8 @@
 
 body {
   background-color: var(--off-black-color);
+  font-family: "Inter", sans-serif;
+  font-size: 14px;
 }
 
 .content-box {
@@ -27,7 +29,7 @@ body {
   left: 50%;
   transform: translate(-50%, -50%);
   height: 60vh;
-  width: 30%;
+  width: 20%;
   background-color: var(--dark-grey-color);
   color: var(--white-color);
   border-radius: 5px;
@@ -43,9 +45,14 @@ img {
   height: 20%;
   width: 20%;
   border-radius: 50%;
-  padding: 40px 0;
+  padding: 35px 0;
 }
 
+.social-details {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
 span {
   display: block;
 }
