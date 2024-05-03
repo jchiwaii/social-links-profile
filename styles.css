@@ -28,8 +28,10 @@ body {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  height: 70vh;
+  height: 74vh;
+  min-height: 70vh;
   width: 24%;
+  min-width: 20%;
   background-color: var(--dark-grey-color);
   color: var(--white-color);
   border-radius: 10px;
@@ -72,7 +74,7 @@ h1 {
 
 span {
   padding: 15px 0;
-  margin: 5px 0;
+  margin: 7px 0;
   width: 120%;
   background-color: var(--grey-color);
   border-radius: 7px;
@@ -80,4 +82,8 @@ span {
 .social-link {
   font-weight: 700;
   text-align: center;
+}
+
+.social-link:last-of-type {
+  padding-bottom: 10px;
 }
