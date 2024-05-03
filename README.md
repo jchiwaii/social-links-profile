@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-social-links-profile-using-vanilla-css-v63ItiZmRx)
 - Live Site URL: [Vercel](https://social-links-profile-two-mu.vercel.app/)
 
 ## My process
@@ -44,6 +44,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@jchiwaii](https://www.frontendmentor.io/profile/jchiwaii)
 - Twitter - [@jchiwaii](https://twitter.com/jchiwaii)
