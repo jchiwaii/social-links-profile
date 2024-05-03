@@ -1,0 +1,32 @@
+/* Primary */
+:root {
+  --green-color: hsl(75, 94%, 57%);
+}
+
+/* Neutral */
+:root {
+  --white-color: hsl(0, 0%, 100%);
+  --grey-color: hsl(0, 0%, 20%);
+  --dark-grey-color: hsl(0, 0%, 12%);
+  --off-black-color: hsl(0, 0%, 8%);
+}
+
+body {
+  background-color: var(--off-black-color);
+}
+
+.content-box {
+  color: var(--white-color);
+}
+
+span {
+  display: block;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
