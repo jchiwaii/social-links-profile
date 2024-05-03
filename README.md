@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-social-links-profile-using-vanilla-css-v63ItiZmRx)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-social-links-profile-using-vanilla-css-v63ItiZmRx)
 - Live Site URL: [Vercel](https://social-links-profile-two-mu.vercel.app/)
 
 ## My process
