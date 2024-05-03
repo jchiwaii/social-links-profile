@@ -4,12 +4,10 @@
   box-sizing: border-box;
 }
 
-/* Primary */
 :root {
   --green-color: hsl(75, 94%, 57%);
 }
 
-/* Neutral */
 :root {
   --white-color: hsl(0, 0%, 100%);
   --grey-color: hsl(0, 0%, 20%);
