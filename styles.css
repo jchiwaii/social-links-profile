@@ -28,10 +28,8 @@ body {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  height: 74vh;
-  min-height: 70vh;
+  height: 79vh;
   width: 24%;
-  min-width: 20%;
   background-color: var(--dark-grey-color);
   color: var(--white-color);
   border-radius: 10px;
@@ -72,16 +70,21 @@ h1 {
   padding-bottom: 16px;
 }
 
-span {
+a {
+  text-decoration: none;
   padding: 15px 0;
   margin: 7px 0;
   width: 125%;
+  color: var(--white-color);
   background-color: var(--grey-color);
   border-radius: 7px;
-}
-.social-link {
   font-weight: 700;
   text-align: center;
+}
+
+a:hover {
+  color: var(--off-black-color);
+  background-color: var(--green-color);
 }
 
 .social-link:last-of-type {
